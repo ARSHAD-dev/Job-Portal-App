@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="5dp"
+    android:elevation="5dp"
+    android:padding="5dp"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="Job Title.."
+            android:textColor="@android:color/black"
+            android:id="@+id/job_title"
+            android:padding="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="08-December-2019"
+            android:id="@+id/jobpostdate"
+            android:textColor="#0055FF"
+            android:padding="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="Description"
+            android:textColor="@android:color/black"
+            android:id="@+id/description"
+            android:maxLines="3"
+            android:padding="5dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="Skills"
+            android:textColor="@android:color/black"
+            android:maxLines="1"
+            android:id="@+id/skilltest"
+            android:padding="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="@string/Salary"
+            android:textColor="@android:color/black"
+            android:maxLines="1"
+            android:id="@+id/sal"
+            android:padding="10dp"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="toolbarcolor">#FC0404</color>
+    <color name="fabcolor">#25045F</color>
+    <color name="btninsert">#410202</color>
+    <color name="btninsert1">#F01414</color>
+</resources>

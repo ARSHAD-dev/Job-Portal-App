@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008648367094",
+    "firebase_url": "https://jobportalarshad.firebaseio.com",
+    "project_id": "jobportalarshad",
+    "storage_bucket": "jobportalarshad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008648367094:android:27f67949feb588e9aaf5d7",
+        "android_client_info": {
+          "package_name": "com.example.jobportalarshad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008648367094-g4fgjrkbpcoo5qq7m0kattbpgfbdtek6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobportalarshad",
+            "certificate_hash": "465b65d754ae876df340b9db41ce7ee7d0d18cd5"
+          }
+        },
+        {
+          "client_id": "1008648367094-dsr7nqgka83ftnku8mc4n1ffhcji4l2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqnn1FUkWcPSzq1CblYdBhGKCpoxCQAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008648367094-dsr7nqgka83ftnku8mc4n1ffhcji4l2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

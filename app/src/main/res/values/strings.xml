@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jobportal</string>
+    <string name="jobtitle">Job Title:</string>
+    <string name="jobdescription">Job Description:</string>
+    <string name="skill">Skill:</string>
+    <string name="Salary">Salary:</string>
+</resources>
